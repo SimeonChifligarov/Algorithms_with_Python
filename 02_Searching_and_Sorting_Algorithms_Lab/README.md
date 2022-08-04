@@ -10,6 +10,7 @@
         - Insertion Sort
     - Advanced Sorting Algorithms
         - QuickSort
+        - Merge Sort
 
 Problems:
 - 01_Binary_Search
@@ -17,6 +18,7 @@ Problems:
 - 03_Bubble_Sort
 - 04_Insertion_Sort
 - 05_Quicksort
+- 06_Merge_Sort
 
 Inspired by Atanas Atanasov
 
