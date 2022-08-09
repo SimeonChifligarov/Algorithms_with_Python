@@ -1,6 +1,6 @@
 # Algorithms_with_Python
 
-5. Dynamic Programming Lab
+5. Dynamic Programming Exercise
 ### Dynamic Programming
 
 Problems:
